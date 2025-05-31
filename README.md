@@ -1,2 +1,2 @@
 # react-concepts
-Created with CodeSandbox
+This projects teaches core React concepts through practices.
