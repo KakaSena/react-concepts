@@ -2,6 +2,11 @@
 
 Welcome! 👋 This project was created as part of my journey to deepen my understanding of **core React practices**. The goal is to explore and experiment with the fundamental concepts that make up modern React development.
 
+## 📚 Based On
+
+This project is based on the course **[React – The Complete Guide (2025 Edition)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)** by **Maximilian Schwarzmüller**. The course has been an incredible resource for learning both the fundamentals and advanced features of React.
+
+
 ## 🔍 What I'm Learning
 
 This project focuses on the following React concepts:
