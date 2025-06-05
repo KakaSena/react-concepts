@@ -31,6 +31,12 @@ This project focuses on the following React concepts:
 
 The project is organized into separate folders and components to reflect different learning modules or features. Each part is designed to be easy to understand and build upon.
 
+## 🧩 Projects Built From This Course
+
+As part of this learning journey, I'm also building small projects that apply the concepts covered in the course. One such project is:
+
+- 🎮 [Tic Tac Toe in React](https://github.com/KakaSena/tic-tac-toe-react): A simple and interactive implementation of the classic game using React components, props, and state.
+
 ## 🚀 Getting Started
 
 Clone the repository and install dependencies:
