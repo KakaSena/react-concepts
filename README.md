@@ -33,7 +33,7 @@ The project is organized into separate folders and components to reflect differe
 
 ## 🧩 Projects Built From This Course
 
-As part of this learning journey, I'm also building small projects that apply the concepts covered in the course. One such project is:
+As part of this learning journey, I'm also building small projects that apply the concepts covered in the course. These are the projects:
 
 - 🎮 [Tic Tac Toe in React](https://github.com/KakaSena/tic-tac-toe-react): A simple and interactive implementation of the classic game using React components, props, and state.
 
