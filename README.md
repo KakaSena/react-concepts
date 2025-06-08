@@ -36,6 +36,9 @@ The project is organized into separate folders and components to reflect differe
 As part of this learning journey, I'm also building small projects that apply the concepts covered in the course. These are the projects:
 
 - 🎮 [Tic Tac Toe in React](https://github.com/KakaSena/tic-tac-toe-react): A simple and interactive implementation of the classic game using React components, props, and state.
+- 📈 [Investment Calculator in React](https://github.com/KakaSena/investment-calculator-react): A financial calculator that helps estimate future investment value based on user input. Built with React to practice form handling, state management, and dynamic data rendering.
+- 🎨 [Styling React App](https://github.com/KakaSena/styling-react-app): A reference app demonstrating various React styling techniques including vanilla CSS, CSS Modules, Styled Components, Tailwind CSS, and dynamic styling.
+
 
 ## 🚀 Getting Started
 
