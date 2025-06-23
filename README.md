@@ -35,9 +35,10 @@ The project is organized into separate folders and components to reflect differe
 
 As part of this learning journey, I'm also building small projects that apply the concepts covered in the course. These are the projects:
 
-- 🎮 [Tic Tac Toe in React](./03-tic-tac-toe): A simple and interactive implementation of the classic game using React components, props, and state.
-- 📈 [Investment Calculator in React](./02-investment-calculator): A financial calculator that helps estimate future investment value based on user input. Built with React to practice form handling, state management, and dynamic data rendering.
-- 🎨 [Styling React App](./01-styling-techniques): A reference app demonstrating various React styling techniques including vanilla CSS, CSS Modules, Styled Components, Tailwind CSS, and dynamic styling.
+- 📘 [01 - React Core Concepts](./01-react-core-concepts): A collection of code snippets and simple components that demonstrate the foundational principles of React, such as components, props, and JSX.
+- 🎮 [Tic Tac Toe in React](./02-react-tic-tac-toe): A simple and interactive implementation of the classic game using React components, props, and state.
+- 📈 [Investment Calculator in React](./03-investment-calculator-react): A financial calculator that helps estimate future investment value based on user input. Built with React to practice form handling, state management, and dynamic data rendering.
+- 🎨 [Styling React App](./04-styling-react-app): A reference app demonstrating various React styling techniques including vanilla CSS, CSS Modules, Styled Components, Tailwind CSS, and dynamic styling.
 
 ## 🚀 Getting Started
 
@@ -49,14 +50,15 @@ To run any project in this repository:
 git clone https://github.com/KakaSena/react-concepts.git
 cd react-concepts
 ```
-### 2. Navigate to the desired project folder
-```bash
-cd 03-tic-tac-toe
-```
+### 2. Navigate to the desired project folder & install dependencies 
 
 ```bash
+cd 03-tic-tac-toe
 npm install
-npm start
 ```
-npm install
-npm start
+
+### 3. Run the dev server
+
+```bash
+npm run dev
+```
