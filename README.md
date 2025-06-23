@@ -41,10 +41,22 @@ As part of this learning journey, I'm also building small projects that apply th
 
 ## 🚀 Getting Started
 
-Clone the repository and install dependencies:
+To run any project in this repository:
+
+### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/react-core-practice.git
-cd react-core-practice
+git clone https://github.com/KakaSena/react-concepts.git
+cd react-concepts
+```
+### 2. Navigate to the desired project folder
+```bash
+cd 03-tic-tac-toe
+```
+
+```bash
+npm install
+npm start
+```
 npm install
 npm start
