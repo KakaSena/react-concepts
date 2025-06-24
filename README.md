@@ -55,7 +55,7 @@ cd react-concepts
 ### 2. Navigate to the desired project folder & install dependencies 
 
 ```bash
-cd 03-tic-tac-toe
+cd projects/03-tic-tac-toe
 npm install
 ```
 
