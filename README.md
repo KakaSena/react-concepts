@@ -64,3 +64,9 @@ npm install
 ```bash
 npm run dev
 ```
+
+## 📄 License
+
+This repository is licensed under the [MIT License](https://github.com/KakaSena/react-concepts/blob/main/LICENSE).  
+Feel free to use, share, and modify the code as per your needs.
+
