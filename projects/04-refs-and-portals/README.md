@@ -50,10 +50,6 @@ This mini project helped reinforce the following concepts:
 
    Visit [http://localhost:5173](http://localhost:5173) to view the application.
 
-## 📄 License
-
-This project is licensed under the [MIT License](https://github.com/KakaSena/investment-calculator-react/blob/main/LICENSE). Feel free to use and modify it as per your needs.
-
 ## 🙏 Acknowledgments
 
 This project was a challenge proposed by the Udemy course:
