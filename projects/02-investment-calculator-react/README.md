@@ -34,7 +34,7 @@ A simple, interactive investment calculator built with React and Vite. This appl
 2. **Navigate to the project directory**:
 
    ```bash
-   cd investment-calculator-react
+   cd projects/02-investment-calculator-react
    ```
 
 3. **Install dependencies**:
@@ -58,21 +58,27 @@ A simple, interactive investment calculator built with React and Vite. This appl
 ## 📁 Project Structure
 
 ```
-investment-calculator-react/
+02-investment-calculator-react/
 ├── public/
-│   └── index.html
+│   └── investment-calculator-logo.png
 ├── src/
+│   ├── assets/ 
 │   ├── components/
 │   │   ├── Header.jsx
-│   │   ├── UserInput.jsx
-│   │   └── Results.jsx
+│   │   ├── Results.jsx
+│   │   └── UserInput.jsx
+│   ├── util/
+│       └── investment.js
 │   ├── App.jsx
-│   ├── main.jsx
-│   └── styles/
-│       └── App.css
+│   ├── index.css
+│   └── index.jsx
+├── .gitignore
+├── index.html
+├── LICENCE
+├── package-lock.json
 ├── package.json
-├── vite.config.js
-└── README.md
+├── README.md
+└── vite.config.js
 ```
 
 
