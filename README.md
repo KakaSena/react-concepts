@@ -39,8 +39,8 @@ As part of this learning journey, I'm also building small projects that apply th
 - 📘 [React Core Concepts](./react-core-concepts): A collection of code snippets and simple components that demonstrate the foundational principles of React, such as components, props, and JSX.
 - 🎮 [Tic Tac Toe in React](./projects/01-react-tic-tac-toe): A simple and interactive implementation of the classic game using React components, props, and state.
 - 📈 [Investment Calculator in React](./projects/02-investment-calculator-react): A financial calculator that helps estimate future investment value based on user input. Built with React to practice form handling, state management, and dynamic data rendering.
-- 🎨 [Styling React App](./projects/03-styling-react-app): A reference app demonstrating various React styling techniques including vanilla CSS, CSS Modules, Styled Components, Tailwind CSS, and dynamic styling.
-- 🌀 [Refs and Portals](./projects/04-refs-and-portals): A project demonstrating how to use `ref`, `forwardRef`, `useImperativeHandle`, and `createPortal` to control components and render UI elements outside the regular DOM tree.
+- 🎨 [ReactArt](./projects/03-styling-react-app): A reference app demonstrating various React styling techniques including vanilla CSS, CSS Modules, Styled Components, Tailwind CSS, and dynamic styling.
+- 🌀 [The Almost Final Countdown](./projects/04-refs-and-portals): A project demonstrating how to use `ref`, `forwardRef`, `useImperativeHandle`, and `createPortal` to control components and render UI elements outside the regular DOM tree.
 
 ## 🚀 Getting Started
 
