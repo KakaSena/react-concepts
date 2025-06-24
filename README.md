@@ -19,6 +19,7 @@ This project focuses on the following React concepts:
 - **State Management** – Managing dynamic data within components
 - **React Hooks** – Using hooks like `useState`, `useEffect`, and others
 - **Conditional Rendering** – Rendering elements dynamically based on logic
+- **Refs and Portals** – Controlling elements directly and rendering components outside the DOM hierarchy
 - **And More** – Additional best practices and React patterns as I progress
 
 ## 🛠️ Tech Stack
