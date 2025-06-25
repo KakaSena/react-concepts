@@ -28,13 +28,13 @@ A simple, interactive investment calculator built with React and Vite. This appl
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/KakaSena/investment-calculator-react.git
+   git clone https://github.com/KakaSena/react-concepts.git
    ```
 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd investment-calculator-react
+   cd 02-investment-calculator-react
    ```
 
 3. **Install dependencies**:
