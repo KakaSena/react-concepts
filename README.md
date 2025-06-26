@@ -37,6 +37,7 @@ The project is organized into separate folders and components to reflect differe
 These resources focus on grasping the foundational principles of React through code snippets and small examples:
 
 - 📘 [React Core Concepts](./learning-materials/01-react-core-concepts): A collection of code snippets and simple components that demonstrate the foundational principles of React, such as **components**, **props**, and **JSX**.
+- 🪢 [Advanced State Management](./learning-materials/02-advanced-state-management): Learn how to avoid prop drilling by combining **Context API** with **useReducer** for centralized and predictable state logic in larger applications.
 
 ## 🧩 Projects Built From This Course
 
