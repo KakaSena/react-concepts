@@ -38,8 +38,6 @@ These resources focus on grasping the foundational principles of React through c
 
 - 📘 [React Core Concepts](./learning-materials/01-react-core-concepts): A collection of code snippets and simple components that demonstrate the foundational principles of React, such as **components**, **props**, and **JSX**.
 
----
-
 ## 🧩 Projects Built From This Course
 
 As part of this learning journey, I'm also building small projects that apply the concepts covered in the course. These are the projects:
