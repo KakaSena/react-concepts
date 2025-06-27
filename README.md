@@ -41,7 +41,7 @@ These resources focus on grasping the foundational principles of React through c
 
 ## 🧩 Projects Built From This Course
 
-As part of this learning journey, I'm also building small projects that apply the concepts covered in the course. These are the projects:
+As part of this learning journey, I tackled a series of challenge projects designed to reinforce the concepts covered. Each challenge was later explained in detail in the course videos. Here are the projects:
 
 - 🎮 [Tic Tac Toe in React](./projects/01-react-tic-tac-toe): A project built to reinforce the learning of **component composition**, **state management**, and **event handling** in React.
 - 📈 [Investment Calculator in React](./projects/02-investment-calculator-react): A project built to practice **form handling**, **controlled components**, **state management**, and **rendering dynamic calculations in real time** using React.
