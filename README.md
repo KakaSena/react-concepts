@@ -37,8 +37,8 @@ The project is organized into separate folders and components to reflect differe
 These resources focus on grasping the foundational principles of React through code snippets and small examples:
 
 - 📘 [React Core Concepts](./learning-materials/01-react-core-concepts): A collection of code snippets and simple components that demonstrate the foundational principles of React, such as **components**, **props**, and **JSX**.
-- 🎨 [ReactArt](./learning-materials/02-styling-react-app): A reference app demonstrating various React styling techniques including vanilla CSS, CSS Modules, Styled Components, Tailwind CSS, and dynamic styling.
-- 🌀 [The Almost Final Countdown](./learning-materials/03-refs-and-portals): A project demonstrating how to use `ref`, `forwardRef`, `useImperativeHandle`, and `createPortal` to control components and render UI elements outside the regular DOM tree.
+- 🎨 [Styling React App](./learning-materials/02-styling-react-app): A reference app demonstrating various React styling techniques including vanilla CSS, CSS Modules, Styled Components, Tailwind CSS, and dynamic styling.
+- 🌀 [Refs & Portals](./learning-materials/03-refs-and-portals): A project demonstrating how to use `ref`, `forwardRef`, `useImperativeHandle`, and `createPortal` to control components and render UI elements outside the regular DOM tree.
 - 🪢 [Advanced State Management](./learning-materials/04-advanced-state-management): Learn how to avoid prop drilling by combining **Context API** with **useReducer** for centralized and predictable state logic in larger applications.
 
 ## 🧩 Projects Built From This Course
