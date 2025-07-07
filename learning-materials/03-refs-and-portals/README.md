@@ -1,7 +1,5 @@
 # ⏱️ The Almost Final Countdown
 
-> Stop the timer once you estimate that time is (almost) up.
-
 A fun and minimal countdown game built with React to practice advanced concepts like `ref`, `forwardRef`, `useImperativeHandle`, and `createPortal`.
 
 ## 🧠 What I Learned
