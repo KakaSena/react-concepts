@@ -37,7 +37,9 @@ The project is organized into separate folders and components to reflect differe
 These resources focus on grasping the foundational principles of React through code snippets and small examples:
 
 - 📘 [React Core Concepts](./learning-materials/01-react-core-concepts): A collection of code snippets and simple components that demonstrate the foundational principles of React, such as **components**, **props**, and **JSX**.
-- 🪢 [Advanced State Management](./learning-materials/02-advanced-state-management): Learn how to avoid prop drilling by combining **Context API** with **useReducer** for centralized and predictable state logic in larger applications.
+- 🎨 [ReactArt](./learning-materials/02-styling-react-app): A reference app demonstrating various React styling techniques including vanilla CSS, CSS Modules, Styled Components, Tailwind CSS, and dynamic styling.
+- 🌀 [The Almost Final Countdown](./learning-materials/03-refs-and-portals): A project demonstrating how to use `ref`, `forwardRef`, `useImperativeHandle`, and `createPortal` to control components and render UI elements outside the regular DOM tree.
+- 🪢 [Advanced State Management](./learning-materials/04-advanced-state-management): Learn how to avoid prop drilling by combining **Context API** with **useReducer** for centralized and predictable state logic in larger applications.
 
 ## 🧩 Projects Built From This Course
 
@@ -45,9 +47,7 @@ As part of this learning journey, I tackled a series of challenge projects desig
 
 - 🎮 [Tic Tac Toe in React](./projects/01-react-tic-tac-toe): A project built to reinforce the learning of **component composition**, **state management**, and **event handling** in React.
 - 📈 [Investment Calculator in React](./projects/02-investment-calculator-react): A project built to practice **form handling**, **controlled components**, **state management**, and **rendering dynamic calculations in real time** using React.
-- 🎨 [ReactArt](./projects/03-styling-react-app): A reference app demonstrating various React styling techniques including vanilla CSS, CSS Modules, Styled Components, Tailwind CSS, and dynamic styling.
-- 🌀 [The Almost Final Countdown](./projects/04-refs-and-portals): A project demonstrating how to use `ref`, `forwardRef`, `useImperativeHandle`, and `createPortal` to control components and render UI elements outside the regular DOM tree.
-- 📋 [Project Manager React App](./projects/05-project-manager-react): A project demonstrating **reusable components**, data flow with **props** and **children**, user interaction with **state** and **hooks**, and advanced patterns like **conditional rendering**, **refs**, and **portals**.
+- 📋 [Project Manager React App](./projects/03-project-manager-react): A project demonstrating **reusable components**, data flow with **props** and **children**, user interaction with **state** and **hooks**, and advanced patterns like **conditional rendering**, **refs**, and **portals**.
 
 ## 🚀 Getting Started
 
