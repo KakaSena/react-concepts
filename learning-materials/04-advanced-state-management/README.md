@@ -7,7 +7,7 @@ This project is a **clothing store interface** where users can:
 - Adjust quantities of each product
 - View the **total price** of all items in the cart
 
-## 🧠 What I'm Learning
+## 🧠 What I Learned
 
 - How and when to use `useReducer` instead of `useState`
 - How to share state across components using the **Context API**
