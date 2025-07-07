@@ -6,7 +6,7 @@ This project demonstrates various ways to style a React application. It's design
 
 This project is based on the course **[React – The Complete Guide (2025 Edition)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)** by **Maximilian Schwarzmüller**. The course has been an incredible resource for learning both the fundamentals and advanced features of React.
 
-## 🔍 What I'm Learning
+## 🧠 What I Learned
 
 This project focuses on the following React styling concepts:
 
