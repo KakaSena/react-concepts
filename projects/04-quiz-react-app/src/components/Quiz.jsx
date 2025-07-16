@@ -20,7 +20,7 @@ export default function Quiz() {
         <ul id="answers">
           {QUESTIONS[activeQuestionIndex].answers.map((answer) => (
             <li key={answer} className="answer">
-              <button oncClick={() => handleSelectedAnsnwer(answer)}>
+              <button onClick={() => handleSelectedAnsnwer(answer)}>
                 {answer}
               </button>
             </li>
