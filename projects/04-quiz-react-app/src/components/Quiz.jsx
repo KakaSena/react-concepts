@@ -14,17 +14,19 @@ export default function Quiz() {
   }
 
   return (
-    <div id="question">
-      <p>{QUESTIONS[activeQuestionIndex].text}</p>;
-      <ul id="answers">
-        {QUESTIONS[activeQuestionIndex].answers.map((answer) => (
-          <li key={answer} className="answer">
-            <button oncClick={() => handleSelectedAnsnwer(answer)}>
-              {answer}
-            </button>
-          </li>
-        ))}
-      </ul>
+    <div id="quiz">
+      <div id="question">
+        <p>{QUESTIONS[activeQuestionIndex].text}</p>
+        <ul id="answers">
+          {QUESTIONS[activeQuestionIndex].answers.map((answer) => (
+            <li key={answer} className="answer">
+              <button oncClick={() => handleSelectedAnsnwer(answer)}>
+                {answer}
+              </button>
+            </li>
+          ))}
+        </ul>
+      </div>
     </div>
   );
 }
