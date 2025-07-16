@@ -10,7 +10,7 @@ export default function Quiz() {
   const activeQuestionIndex = userAnwsers.length;
   const isQuizCompleted = activeQuestionIndex === QUESTIONS.length;
 
-  const handleSelectedAnswer = useCallback(function handleSelectedAnsnwer(
+  const handleSelectedAnswer = useCallback(function handleSelectedAnswer(
     selectedAnswer
   ) {
     setUserAnswers((prevAnswer) => {
@@ -21,7 +21,7 @@ export default function Quiz() {
 
   const handleSkipAnswer = useCallback(
     () => handleSelectedAnswer(null),
-    [handleSelectedAnsnwer]
+    [handleSelectedAnswer]
   );
 
   if (isQuizCompleted) {
@@ -45,7 +45,7 @@ export default function Quiz() {
         <ul id="answers">
           {shuffledAnswers.map((answer) => (
             <li key={answer} className="answer">
-              <button onClick={() => handleSelectedAnsnwer(answer)}>
+              <button onClick={() => handleSelectedAnswer(answer)}>
                 {answer}
               </button>
             </li>
