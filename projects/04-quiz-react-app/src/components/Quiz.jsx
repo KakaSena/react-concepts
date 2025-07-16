@@ -6,6 +6,9 @@ export default function Quiz() {
   const [userAnwsers, setUserAnswers] = useState([]);
 
   const activeQuestionIndex = userAnwsers.length;
+  const shuffledAnswers = [...QUESTIONS[activeQuestionIndex].answers].sort(
+    () => Math.random() - 0.5
+  );
 
   function handleSelectedAnsnwer(selectedAnswer) {
     setUserAnswers((prevAnswer) => {
@@ -18,7 +21,7 @@ export default function Quiz() {
       <div id="question">
         <p>{QUESTIONS[activeQuestionIndex].text}</p>
         <ul id="answers">
-          {QUESTIONS[activeQuestionIndex].answers.map((answer) => (
+          {shuffledAnswers.map((answer) => (
             <li key={answer} className="answer">
               <button onClick={() => handleSelectedAnsnwer(answer)}>
                 {answer}
